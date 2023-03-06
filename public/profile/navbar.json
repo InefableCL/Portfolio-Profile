@@ -1,0 +1,26 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 40,
+        "width" : 60
+    },
+    "sections": [
+        {
+            "title": "Главная",
+            "href": "/"
+        },
+        {
+            "title": "Обо мне",
+            "href": "/about"
+        },
+        {
+            "title": "Навыки",
+            "href": "/skills"
+        },
+        {
+            "title": "Проекты",
+            "href": "/projects"
+        }
+    ]
+
+}

@@ -1,0 +1,11 @@
+.imga {
+    width: 400px;
+    height: 300px;
+}
+
+@media screen and (max-width: 480px) {
+    .about_text{
+        font-size: 15px;
+        padding: 0 20px 0 60px;
+    }
+    }
