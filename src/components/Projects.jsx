@@ -34,7 +34,7 @@ const Projects = (props) => {
   const numberOfItems = showMore && data ? data.length : 6;
   return (
     <>
-      <Header title={header} />
+      <Header title={"Проекты"} />
       {data
         ? (
           <div className="section-content-container">
